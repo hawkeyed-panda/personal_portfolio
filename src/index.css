@@ -1,0 +1,175 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* CSS Variables for Theme System */
+:root[data-theme="dark"] {
+  /* Backgrounds */
+  --bg-primary: #000000;
+  --bg-primary-alpha: rgba(0, 0, 0, 0.95);
+  --bg-secondary: #0A0A0A;
+  --bg-elevated: #151515;
+  --bg-tertiary: #1a1a1a;
+  --bg-overlay: rgba(255, 255, 255, 0.05);
+  
+  /* Text */
+  --text-primary: #FFFFFF;
+  --text-secondary: rgba(255, 255, 255, 0.85);
+  --text-muted: #666666;
+  
+  /* Borders */
+  --border-subtle: rgba(255, 255, 255, 0.08);
+  --border-medium: rgba(255, 255, 255, 0.15);
+  --border-glow: rgba(0, 255, 209, 0.3);
+  
+  /* Brand Colors */
+  --brand-primary: #00FFD1;
+  --brand-hover: rgba(0, 255, 209, 0.15);
+  --brand-active: #6FD2C0;
+  --brand-glow: rgba(0, 255, 209, 0.4);
+  
+  /* Shadows & Glows */
+  --shadow-sm: 0 2px 8px rgba(0, 0, 0, 0.4);
+  --shadow-md: 0 4px 16px rgba(0, 0, 0, 0.5);
+  --shadow-lg: 0 8px 32px rgba(0, 0, 0, 0.6);
+  --glow-sm: 0 0 20px rgba(0, 255, 209, 0.15);
+  --glow-md: 0 0 40px rgba(0, 255, 209, 0.2);
+  --glow-lg: 0 0 60px rgba(0, 255, 209, 0.25);
+}
+
+:root[data-theme="light"] {
+  /* Backgrounds */
+  --bg-primary: #FAFAFA;
+  --bg-primary-alpha: rgba(250, 250, 250, 0.95);
+  --bg-secondary: #FFFFFF;
+  --bg-elevated: #F5F5F5;
+  --bg-tertiary: #EEEEEE;
+  --bg-overlay: rgba(0, 0, 0, 0.05);
+  
+  /* Text */
+  --text-primary: #0F0F10;
+  --text-secondary: rgba(15, 15, 16, 0.85);
+  --text-muted: #6B6B6B;
+  
+  /* Borders */
+  --border-subtle: rgba(0, 0, 0, 0.08);
+  --border-medium: rgba(0, 0, 0, 0.15);
+  --border-glow: rgba(0, 212, 176, 0.3);
+  
+  /* Brand Colors */
+  --brand-primary: #00D4B0;
+  --brand-hover: rgba(0, 212, 176, 0.15);
+  --brand-active: #00A88C;
+  --brand-glow: rgba(0, 212, 176, 0.4);
+  
+  /* Shadows & Glows */
+  --shadow-sm: 0 2px 8px rgba(0, 0, 0, 0.08);
+  --shadow-md: 0 4px 16px rgba(0, 0, 0, 0.1);
+  --shadow-lg: 0 8px 32px rgba(0, 0, 0, 0.12);
+  --glow-sm: 0 0 20px rgba(0, 212, 176, 0.15);
+  --glow-md: 0 0 40px rgba(0, 212, 176, 0.2);
+  --glow-lg: 0 0 60px rgba(0, 212, 176, 0.25);
+}
+
+/* Default to dark theme */
+:root {
+  --bg-primary: #000000;
+  --bg-primary-alpha: rgba(0, 0, 0, 0.95);
+  --bg-secondary: #0A0A0A;
+  --bg-elevated: #151515;
+  --bg-tertiary: #1a1a1a;
+  --bg-overlay: rgba(255, 255, 255, 0.05);
+  --text-primary: #FFFFFF;
+  --text-secondary: rgba(255, 255, 255, 0.85);
+  --text-muted: #666666;
+  --border-subtle: rgba(255, 255, 255, 0.08);
+  --border-medium: rgba(255, 255, 255, 0.15);
+  --border-glow: rgba(0, 255, 209, 0.3);
+  --brand-primary: #00FFD1;
+  --brand-hover: rgba(0, 255, 209, 0.15);
+  --brand-active: #6FD2C0;
+  --brand-glow: rgba(0, 255, 209, 0.4);
+  --shadow-sm: 0 2px 8px rgba(0, 0, 0, 0.4);
+  --shadow-md: 0 4px 16px rgba(0, 0, 0, 0.5);
+  --shadow-lg: 0 8px 32px rgba(0, 0, 0, 0.6);
+  --glow-sm: 0 0 20px rgba(0, 255, 209, 0.15);
+  --glow-md: 0 0 40px rgba(0, 255, 209, 0.2);
+  --glow-lg: 0 0 60px rgba(0, 255, 209, 0.25);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: var(--bg-primary);
+  color: var(--text-primary);
+  transition: background 0.6s ease, color 0.6s ease;
+  position: relative;
+  overflow-x: hidden;
+}
+
+/* Subtle noise texture for depth */
+body::before {
+  content: '';
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-image: 
+    radial-gradient(circle at 20% 50%, rgba(0, 255, 209, 0.03) 0%, transparent 50%),
+    radial-gradient(circle at 80% 80%, rgba(0, 255, 209, 0.02) 0%, transparent 50%);
+  pointer-events: none;
+  z-index: 0;
+  opacity: 0.6;
+}
+
+body::after {
+  content: '';
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: 
+    repeating-linear-gradient(
+      0deg,
+      transparent,
+      transparent 2px,
+      rgba(255, 255, 255, 0.01) 2px,
+      rgba(255, 255, 255, 0.01) 4px
+    );
+  pointer-events: none;
+  z-index: 0;
+  opacity: 0.3;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+button {
+  font-family: inherit;
+}
+
+/* Mobile-friendly touch targets and text sizing */
+@media (max-width: 768px) {
+  html {
+    -webkit-text-size-adjust: 100%;
+    text-size-adjust: 100%;
+  }
+}

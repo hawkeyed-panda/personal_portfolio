@@ -1,0 +1,10 @@
+/* Global App Styles */
+.App {
+  min-height: 100vh;
+  background: var(--bg-primary);
+}
+
+main {
+  width: 100%;
+}
+
