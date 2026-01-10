@@ -1,6 +1,6 @@
 ---
 title: "Essential Software for Your Systems"
-date: "2020-04-01"
+date: "01-04-2020"
 tags: ["Software", "Productivity", "Systems"]
 readTime: "6 min"
 summary: "A practical look at essential software tools that improve productivity and system efficiency."
@@ -15,7 +15,7 @@ Many of us might have heard about this software everywhere in the large scale in
 
 - **Photoshop layers**: Layering is the fundamental of photo editing. Add layers and edit all the way onto the layers before applying it onto the original image.
 
-<img src="/personal_portfolio/content/writing/images/essential-software/adobe-photoshop.jpg" alt="Adobe Photoshop" style="float: right; margin: 0 0 15px 20px; width: 35%; max-width: 280px;" />
+<img src="/content/writing/images/essential-software/adobe-photoshop.jpg" alt="Adobe Photoshop" style="float: right; margin: 0 0 15px 20px; width: 35%; max-width: 280px;" />
 
 - **High range of selection tools** which give you a professional edit (cropping, slicing, moving, marquee, lasso, magic wand, eraser)
 - **Pen Tool**: This tool creates specific paths with adjustable anchor points.
@@ -35,7 +35,7 @@ Video LAN project in 1986. Now, merely one of the best video players for our PCs
 
 - **Converter**: It has an in-built video converter which changes the encoding and file format as required by the user. We don't need a different software for converting videos.
 
-<img src="/personal_portfolio/content/writing/images/essential-software/vlc-media-player.jpg" alt="VLC Media Player" style="float: right; margin: 0 0 15px 20px; width: 30%; max-width: 250px;" />
+<img src="/content/writing/images/essential-software/vlc-media-player.jpg" alt="VLC Media Player" style="float: right; margin: 0 0 15px 20px; width: 30%; max-width: 250px;" />
 
 - **Streaming media from PC to other Client**: VLC can act as both server and client for streaming and receiving network streams. We just have to fill in the IP addresses into both the systems to stream simultaneously. This can be useful in companies where an instruction can be sent to all the employees using a video.
 - **Streaming and downloading online videos**: VLC has the potential to stream and download videos from various online video play platforms. Just entering the URL in the desired location will do so. The codec will initially run on your browser where you can select to save your file locally. This is of great use.
@@ -53,7 +53,7 @@ Similar to the windows notepad, this software is a text editor too. But what mak
 
 **Popular features of Notepad ++:**
 
-<img src="/personal_portfolio/content/writing/images/essential-software/notepad-plus-plus.jpg" alt="Notepad++" style="float: right; margin: 0 0 15px 20px; width: 30%; max-width: 250px;" />
+<img src="/content/writing/images/essential-software/notepad-plus-plus.jpg" alt="Notepad++" style="float: right; margin: 0 0 15px 20px; width: 30%; max-width: 250px;" />
 
 1. **Internationalization**: It is one of the very few source code editors that supports internationalization using XML files. In order to translate to a new language all you can do is edit the existing file.
 
@@ -77,7 +77,7 @@ Bluestacks is a cool software allowing you to run all the android apps on multip
 
 **What makes the software stand out:**
 
-<img src="/personal_portfolio/content/writing/images/essential-software/bluestacks.jpg" alt="Bluestacks" style="float: right; margin: 0 0 15px 20px; width: 30%; max-width: 220px;" />
+<img src="/content/writing/images/essential-software/bluestacks.jpg" alt="Bluestacks" style="float: right; margin: 0 0 15px 20px; width: 30%; max-width: 220px;" />
 
 - **Integration functioning**: It is a very user-friendly or integration friendly as it easily connects to all the hardware available on your system with the android ecosystem be it mouse, keyboard, camera, mic, etc.
 - **Developer Friendly**: This software is really useful for the mobile application developers. Especially for those who want to check the performance of their app regularly. They can easily monitor the performance of the applications with the 'Developer's team support' segment provided.
@@ -98,7 +98,7 @@ One of the best known software for remote access solutions. As many of them are 
 - Hardware Access Remotely
 - Communication Modes
 
-<img src="/personal_portfolio/content/writing/images/essential-software/teamviewer.jpg" alt="TeamViewer" style="float: right; margin: 0 0 15px 20px; width: 30%; max-width: 220px;" />
+<img src="/content/writing/images/essential-software/teamviewer.jpg" alt="TeamViewer" style="float: right; margin: 0 0 15px 20px; width: 30%; max-width: 220px;" />
 
 **Unique Functions of the software:**
 - Multi-platform compatibility
@@ -116,7 +116,7 @@ For all the work-from-home needs, this software with high-end security and end t
 
 Avidemux is a simple and a lightweight video editing tool. Don't go with the size or the UI of the program. It is actually very powerful. If you know exactly what to do to your video files and what option to go for editing it in the manner you want, it is the perfect free and open sourced software.
 
-<img src="/personal_portfolio/content/writing/images/essential-software/avidemux.jpg" alt="Avidemux" style="float: right; margin: 0 0 15px 20px; width: 30%; max-width: 250px;" />
+<img src="/content/writing/images/essential-software/avidemux.jpg" alt="Avidemux" style="float: right; margin: 0 0 15px 20px; width: 30%; max-width: 250px;" />
 
 With the software you can also download the K-Lite codec pack Mega for extra codecs used for video editing and encoding as well.
 
@@ -137,7 +137,7 @@ This app is a great free to use open source software. It is a substitute to the 
 
 **Its unique features include:**
 
-<img src="/personal_portfolio/content/writing/images/essential-software/sharex.jpg" alt="ShareX" style="float: right; margin: 0 0 15px 20px; width: 30%; max-width: 220px;" />
+<img src="/content/writing/images/essential-software/sharex.jpg" alt="ShareX" style="float: right; margin: 0 0 15px 20px; width: 30%; max-width: 220px;" />
 
 - Auto detection of the borders using AI allowing easy captures.
 - As we know long screenshots/ expanded screenshots on the phone which allows us to take screenshots of web pages or long scripts, this app does it for the PC too instead of taking screenshot for every scroll.

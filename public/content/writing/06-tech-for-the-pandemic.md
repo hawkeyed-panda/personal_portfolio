@@ -1,6 +1,6 @@
 ---
 title: "Tech for the Pandemic"
-date: "2020-04-12"
+date: "12-04-2020"
 tags: ["Technology & Society", "Public Health", "Applications"]
 readTime: "4 min"
 summary: "How technology helped people navigate uncertainty during the COVID-19 lockdowns."
@@ -13,7 +13,7 @@ What if you are wondering with an empty rack in your kitchen to get essential su
 
 If we knew in advance what stores are open around us, it would make our store-runs simpler and waste less time and keep us safer (less contact with people, no loitering).
 
-<img src="/personal_portfolio/content/writing/images/tech-for-the-pandemic/stillopen-in.jpg" alt="stillopen.in website" style="float: right; margin: 0 0 15px 20px; width: 45%; max-width: 380px;" />
+<img src="/content/writing/images/tech-for-the-pandemic/stillopen-in.jpg" alt="stillopen.in website" style="float: right; margin: 0 0 15px 20px; width: 45%; max-width: 380px;" />
 
 Quikr (the online buying and selling portal) has created a website called stillopen.in that can help us do this right. Here's a snapshot of the website interface showing you the options available on it. It would ask permission for location access, you may accept or deny the permission. You can manually enter your location later if you haven't given permission access to the site. You can browse through various options like, grocery stores, doctors around you, pharmacy around you etc. Also you have an option to update the data on the website as well. If you have been to the place, and unfortunately find out that the info on the website is wrong you can update the info on it to prevent people from further coming to that place on that day.
 
@@ -23,7 +23,7 @@ stillopen.in is currently available for access in 23 cities including Bangalore,
 
 ## 2) AAROGYA SETU APP
 
-<img src="/personal_portfolio/content/writing/images/tech-for-the-pandemic/aarogya-setu.jpg" alt="Aarogya Setu App" style="float: left; margin: 0 20px 15px 0; width: 40%; max-width: 320px;" />
+<img src="/content/writing/images/tech-for-the-pandemic/aarogya-setu.jpg" alt="Aarogya Setu App" style="float: left; margin: 0 20px 15px 0; width: 40%; max-width: 320px;" />
 
 I've personally tried and explored this app on my phone. This app also uses the user's location data and collects some personal health data like Name, Age, fitness. Later it takes a small symptom test which the user can truthfully answer. After the test, the user can know what action to be taken next based on the symptoms. If the person seems to have no symptoms, it suggests the user to stay at home as he/she is not infected so as to prevent further chances of infection. This app uses Bluetooth and location services to maintain its health database. The home page of the app shows if you are safe in a green background and if it's time for yourself to get checked in red.
 

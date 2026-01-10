@@ -1,6 +1,6 @@
 ---
 title: "The 'Real' Flagship by OnePlus"
-date: "2020-04-26"
+date: "26-04-2020"
 tags: ["Products", "Smartphones", "User Experience"]
 readTime: "2 min"
 summary: "Why the OnePlus 8 Pro finally earned the flagship label."
@@ -15,7 +15,7 @@ With the newly announced OnePlus 8 series, the company has set the limits to the
 
 ## OnePlus 8 Pro Flagship Specs
 
-<img src="/personal_portfolio/content/writing/images/real-flagship-oneplus/oneplus-8-pro.jpg" alt="OnePlus 8 Pro" style="float: left; margin: 0 20px 15px 0; width: 40%; max-width: 300px;" />
+<img src="/content/writing/images/real-flagship-oneplus/oneplus-8-pro.jpg" alt="OnePlus 8 Pro" style="float: left; margin: 0 20px 15px 0; width: 40%; max-width: 300px;" />
 
 Starting with the OnePlus 8 Pro flagship specs:
 

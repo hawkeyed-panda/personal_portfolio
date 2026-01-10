@@ -1,6 +1,6 @@
 ---
 title: "The Big Question"
-date: "2020-04-22"
+date: "22-04-2020"
 tags: ["Products", "User Experience", "Hardware"]
 readTime: "3 min"
 summary: "Can the iPad truly replace a laptop for everyday and professional use?"
@@ -9,7 +9,7 @@ slug: "the-big-question-ipad"
 
 Can the new iPad 2020 replace your laptop with the refreshed new iPad OS and added mouse/trackpad support? With added mouse support, the iPads are inching closer to the real laptop replacement. Previously iPads were developed with a touch-only interaction. Firstly, talking about the new iPadOS which had launched in September 2019 was a huge change to the complete iPad ecosystem. It had brought in iPad specific features which drag the iPads and the laptops closer.
 
-<img src="/personal_portfolio/content/writing/images/the-big-question/ipad-pro-poll.jpg" alt="iPad Pro with Magic Keyboard and Poll" style="float: left; margin: 0 20px 15px 0; width: 40%; max-width: 320px;" />
+<img src="/content/writing/images/the-big-question/ipad-pro-poll.jpg" alt="iPad Pro with Magic Keyboard and Poll" style="float: left; margin: 0 20px 15px 0; width: 40%; max-width: 320px;" />
 
 ## 1) Multitasking
 

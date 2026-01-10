@@ -1,6 +1,6 @@
 ---
 title: "The 'G' Progress"
-date: "2020-02-20"
+date: "20-02-2020"
 tags: ["Networks", "Telecom", "Infrastructure"]
 readTime: "2 min"
 summary: "Questioning whether newer mobile network generations actually improve reliability and quality."
@@ -9,7 +9,7 @@ slug: "g-progress"
 
 We are in the 21st century knowing that the internet services have took a giant leap. The mobile network services have expanded into broad businesses. But, my question to the telecom operators, is it really worth expanding so huge? Is the radiation safe? Is the data safe? Is the network reliable? Is the network coverage complete?
 
-<img src="/personal_portfolio/content/writing/images/the-g-progress/network-city.jpg" alt="City Network" style="float: left; margin: 0 20px 15px 0; width: 45%; max-width: 350px;" />
+<img src="/content/writing/images/the-g-progress/network-city.jpg" alt="City Network" style="float: left; margin: 0 20px 15px 0; width: 45%; max-width: 350px;" />
 
 ## The Evolution of Mobile Networks
 
@@ -23,13 +23,13 @@ There is a heavy compromise on the quality of networks over the increasing numbe
 
 Reports from LocalCircles give the following data on a survey:
 
-<img src="/personal_portfolio/content/writing/images/the-g-progress/localcircles-survey.jpg" alt="LocalCircles Survey" style="width: 100%; margin: 20px 0;" />
+<img src="/content/writing/images/the-g-progress/localcircles-survey.jpg" alt="LocalCircles Survey" style="width: 100%; margin: 20px 0;" />
 
 Bringing down costs for matching up to the competition in the market has also got the top performing telecom operators into trouble incurring loss and a very high debt pay to the Department of Telecommunications, Government of India. This has also led the companies to reduce the operating costs and also hike the prices of data packs by up to 40%.
 
 ## The Way Forward
 
-<img src="/personal_portfolio/content/writing/images/the-g-progress/call-drop-stats.jpg" alt="Call Drop Statistics" style="float: right; margin: 0 0 15px 20px; width: 45%; max-width: 380px;" />
+<img src="/content/writing/images/the-g-progress/call-drop-stats.jpg" alt="Call Drop Statistics" style="float: right; margin: 0 0 15px 20px; width: 45%; max-width: 380px;" />
 
 In fact, it would be better when telecom operators try offering promised data speeds instead of reducing operation costs so that the consumer base increases and the revenue is recovered from quality offering to the customers of the network. The marginal cost would adjust on its own according to the preference of the customers.
 

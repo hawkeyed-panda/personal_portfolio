@@ -1,6 +1,6 @@
 ---
 title: "Internet for Everybody"
-date: "2020-04-26"
+date: "26-04-2020"
 tags: ["Networks", "Connectivity", "Infrastructure"]
 readTime: "3 min"
 summary: "Why universal internet access is essential—and how projects like Loon and Starlink aim to deliver it."
@@ -13,7 +13,7 @@ As of today, Google and SpaceX by Elon Musk have been working hard to make this 
 
 ## Project Loon
 
-<img src="/personal_portfolio/content/writing/images/internet-for-everybody/loon-balloon.jpg" alt="Project Loon Balloon" style="float: left; margin: 0 20px 15px 0; width: 40%; max-width: 300px;" />
+<img src="/content/writing/images/internet-for-everybody/loon-balloon.jpg" alt="Project Loon Balloon" style="float: left; margin: 0 20px 15px 0; width: 40%; max-width: 300px;" />
 
 Google has already got the 'Project Loon' in some countries where the internet activity is sparse or almost NIL. Loon would be a group of balloons travelling at the edge of the space helping people without access to the internet to get connected seamlessly. Loon was already put to test in New Zealand and it worked out quite well. Currently loon has partnered with various mobile network operators like AT&T. They have been successful in establishing basic communication facility in many areas and are working to deliver LTE internet access to the people with LTE enabled phones.
 
@@ -27,7 +27,7 @@ Predictive models of the winds and autonomous decision-making algorithms move ea
 
 <div style="clear: both;"></div>
 
-<img src="/personal_portfolio/content/writing/images/internet-for-everybody/loon-coverage.jpg" alt="Loon Coverage Illustration" style="width: 100%; margin: 20px 0;" />
+<img src="/content/writing/images/internet-for-everybody/loon-coverage.jpg" alt="Loon Coverage Illustration" style="width: 100%; margin: 20px 0;" />
 
 These balloons help the mobile network operators increase network coverage exponentially. The base tower on the ground transmits the signals to the balloons which then amplify the signal and send back the signals to the remote areas to the user's devices.
 
@@ -35,7 +35,7 @@ These balloons help the mobile network operators increase network coverage expon
 
 Another project being worked by the SpaceX team is the 'StarLink' model to provide internet access to everybody. The broadband internet network that covers the countries is like a circulatory system. Major arteries run from big city to big city, then smaller branches cover those cities and extend to nearby suburban cities. Hubs in those smaller cities branch out to reach more towns. People in the smallest communities and villages end up being the costliest places to reach with service.
 
-<img src="/personal_portfolio/content/writing/images/internet-for-everybody/starlink-sky.jpg" alt="Starlink Satellites in Night Sky" style="float: left; margin: 0 20px 15px 0; width: 40%; max-width: 350px;" />
+<img src="/content/writing/images/internet-for-everybody/starlink-sky.jpg" alt="Starlink Satellites in Night Sky" style="float: left; margin: 0 20px 15px 0; width: 40%; max-width: 350px;" />
 
 Just like the television satellites the satellites for internet services and communication are being launched by SpaceX. As the name 'StarLink' suggests, this is a blanket or a huge network of satellites surrounding the atmosphere to provide internet everywhere just like we see the stars all over in the sky.
 
@@ -45,7 +45,7 @@ To make the connection more convenient people don't have to wait for a physical 
 
 ## Environmental Considerations
 
-<img src="/personal_portfolio/content/writing/images/internet-for-everybody/starlink-satellite.jpg" alt="Starlink Satellite" style="float: right; margin: 0 0 15px 20px; width: 45%; max-width: 400px;" />
+<img src="/content/writing/images/internet-for-everybody/starlink-satellite.jpg" alt="Starlink Satellite" style="float: right; margin: 0 0 15px 20px; width: 45%; max-width: 400px;" />
 
 The only next factor to be thought about is the amount of radiations and the signal exposure all the living organisms on the planet would experience.
 

@@ -1,6 +1,6 @@
 ---
 title: "Another Revolution"
-date: "2020-05-21"
+date: "21-05-2020"
 tags: ["Technology & Society", "Remote Work", "AI Impact"]
 readTime: "3 min"
 summary: "How the COVID-19 pandemic accelerated digital transformation across industries."
@@ -13,7 +13,7 @@ So, how has the pandemic affected the technology sector world-wide? Several orga
 
 ## ONLINE PAYMENTS
 
-<img src="/personal_portfolio/content/writing/images/another-revolution/online-payments.jpg" alt="Cash payment" style="float: right; margin: 0 0 15px 20px; width: 45%; max-width: 350px;" />
+<img src="/content/writing/images/another-revolution/online-payments.jpg" alt="Cash payment" style="float: right; margin: 0 0 15px 20px; width: 45%; max-width: 350px;" />
 
 Though the cashless payment modes have gained a good amount of users over the past couple of years, certain sectors still failed to transform to the online mode of payments as they felt it was not safe and secure. Traditional modes of payments like cash still has a strong sense of trust in some people.
 
@@ -21,7 +21,7 @@ Though the cashless payment modes have gained a good amount of users over the pa
 
 ## VIRTUAL MEETINGS
 
-<img src="/personal_portfolio/content/writing/images/another-revolution/virtual-meetings.jpg" alt="Virtual meetings" style="float: right; margin: 0 0 15px 20px; width: 40%; max-width: 300px;" />
+<img src="/content/writing/images/another-revolution/virtual-meetings.jpg" alt="Virtual meetings" style="float: right; margin: 0 0 15px 20px; width: 40%; max-width: 300px;" />
 
 The next big change that the world would observe would be the hike in remote meetings and online discussions. Though the tools for virtual meetings were available since many years from now, they weren't as functional, as attending the workplace and holding meetings at offices was the trend. Now, that social distancing and consciousness for hygiene has come into play, virtual video meetings and webinars have come up.
 
@@ -43,7 +43,7 @@ Similarly, online education has also seen a boost over the past couple of months
 
 ## INTERNET BANDWIDTH ANALYSIS
 
-<img src="/personal_portfolio/content/writing/images/another-revolution/5g-network.jpg" alt="5G Network" style="float: left; margin: 0 20px 15px 0; width: 40%; max-width: 300px;" />
+<img src="/content/writing/images/another-revolution/5g-network.jpg" alt="5G Network" style="float: left; margin: 0 20px 15px 0; width: 40%; max-width: 300px;" />
 
 As there is an increased use of the internet all over the world, artificial Intelligence would be playing a major role for the communication industry to analyse and speculate the data and bandwidth usage by people. When communication is being done using shared spectrum AI/ML systems will be continuously monitoring the load on the various networks. Based on the spectrum usage the machine learning algorithm would work to shift the communication channel to a spectrum where there is lesser traffic and help in making the connection more stable. These systems will help greatly improve the user experience. Everything is moving to the online space. So control and monitoring of the usage is important as the traffic might generate a negative effect.
 
@@ -53,7 +53,7 @@ Internet will be available to the rural areas too. Due to the outbreak of the pa
 
 ## EMERGING IoT SOLUTIONS
 
-<img src="/personal_portfolio/content/writing/images/another-revolution/iot-solutions.jpg" alt="IoT Solutions" style="float: left; margin: 0 20px 15px 0; width: 40%; max-width: 300px;" />
+<img src="/content/writing/images/another-revolution/iot-solutions.jpg" alt="IoT Solutions" style="float: left; margin: 0 20px 15px 0; width: 40%; max-width: 300px;" />
 
 People would generally refrain touching switches and knobs used by everybody in the public places and workplaces. IoT brings us the possibility of resolving this with just connecting one primary device we have, for controlling everything. Be it lights, AC, Fans, Televisions, Projectors, etc being controlled with just our tablets/laptops or mobiles. IoT holds the power of connecting all devices to the cloud and securely control these devices with a common control to people who will be given access to operate it. Electric switches and remote controls will slowly get outdated and the new controls will be gestures and personalized single device control for all the device we will be given access to. Isn't it wonderful?
 

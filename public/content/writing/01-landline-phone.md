@@ -1,13 +1,13 @@
 ---
 title: "5 Reasons to Keep Your Landline Phone"
-date: "2020-01-09"
+date: "09-01-2020"
 tags: ["Networks", "Infrastructure", "Connectivity"]
 readTime: "2 min"
 summary: "Why wired communication still matters in a world rushing toward everything wireless."
 slug: "keep-your-landline-phone"
 ---
 
-<img src="/personal_portfolio/content/writing/images/landline-phone/smartphone-usage.jpg" alt="Smartphone Usage" style="float: left; margin: 0 20px 15px 0; width: 45%; max-width: 350px;" />
+<img src="/content/writing/images/landline-phone/smartphone-usage.jpg" alt="Smartphone Usage" style="float: left; margin: 0 20px 15px 0; width: 45%; max-width: 350px;" />
 
 The tech holds very strong and supporting reasons so as why people should be keeping landline phones. Did we ever think if the cellular networks that we are completely reliable on, would completely break-down? After all they are wireless connections which are still not 100% reliable. Currently the telecom operators are suffering to keep up to the standards (a connection to my blog post 'The G Progress'). 
 

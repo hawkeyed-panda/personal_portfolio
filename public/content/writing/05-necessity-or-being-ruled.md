@@ -1,13 +1,13 @@
 ---
 title: "Necessity or Being Ruled?"
-date: "2020-04-18"
+date: "18-04-2020"
 tags: ["Automation", "AI Impact", "Technology & Society"]
 readTime: "3 min"
 summary: "A balanced look at automation, AI, and the future of human work."
 slug: "necessity-or-being-ruled"
 ---
 
-<img src="/personal_portfolio/content/writing/images/necessity-or-being-ruled/robots-at-work.jpg" alt="Robots working at laptops" style="float: left; margin: 0 20px 15px 0; width: 45%; max-width: 350px;" />
+<img src="/content/writing/images/necessity-or-being-ruled/robots-at-work.jpg" alt="Robots working at laptops" style="float: left; margin: 0 20px 15px 0; width: 45%; max-width: 350px;" />
 
 Wondering what this new article is about? Before getting to the next part of this article, try to think deeper with just the Heading in mind. Any ideas or guesses? Well, this article is all about the automation industry's development and how much further could it develop. Does it possess risk for the human jobs right now? Will machines replace humans in the future of work?
 
@@ -39,7 +39,7 @@ In fact, there are some major pitfalls when it comes to automation:
 
 If the above equation holds True, only then a person can think of automating a task.
 
-<img src="/personal_portfolio/content/writing/images/necessity-or-being-ruled/agile-development.jpg" alt="Agile Development Cycle" style="float: left; margin: 0 20px 15px 0; width: 35%; max-width: 280px;" />
+<img src="/content/writing/images/necessity-or-being-ruled/agile-development.jpg" alt="Agile Development Cycle" style="float: left; margin: 0 20px 15px 0; width: 35%; max-width: 280px;" />
 
 **Automation is Agile**: Automation really requires a human support at the back-end to keep itself updated and keep developing the process/machine. As mentioned above, innovation can be fed into the machine to perform a new task. But the machine itself cannot get innovative ideas on its own.
 
@@ -62,7 +62,7 @@ This is a very vast deployment process in the software industry. Hence, this has
 
 ## The Balance Between Humans and Machines
 
-<img src="/personal_portfolio/content/writing/images/necessity-or-being-ruled/ai-market-revenue.jpg" alt="AI Market Revenue Chart" style="float: left; margin: 0 20px 15px 0; width: 45%; max-width: 400px;" />
+<img src="/content/writing/images/necessity-or-being-ruled/ai-market-revenue.jpg" alt="AI Market Revenue Chart" style="float: left; margin: 0 20px 15px 0; width: 45%; max-width: 400px;" />
 
 In the manufacturing and production lines, robots and machines have already taken over some of the manual jobs that were done before and used to be a very tiring and difficult job for the humans.
 
