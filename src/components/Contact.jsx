@@ -4,7 +4,7 @@ import { personalInfo } from '../mock';
 import '../styles/Contact.css';
 
 const Contact = () => {
-  const resumeUrl = "https://customer-assets.emergentagent.com/job_dark-portfolio-67/artifacts/yptuet6o_Pranit%20Manda.pdf";
+  const resumeUrl = `${process.env.PUBLIC_URL}/Pranit_Manda_Resume.pdf`;
 
   return (
     <section id="contact" className="section contact-section">
