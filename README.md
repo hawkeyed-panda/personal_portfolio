@@ -4,7 +4,7 @@ A modern, responsive portfolio website built with React showcasing AI/ML enginee
 
 ## 🌐 Live Demo
 
-[https://hawkeyed-panda.github.io/personal_portfolio](https://hawkeyed-panda.github.io/personal_portfolio)
+[https://pranitmanda.com/](https://pranitmanda.com/)
 
 ## ✨ Features
 
