@@ -7,6 +7,8 @@ summary: "Why wired communication still matters in a world rushing toward everyt
 slug: "keep-your-landline-phone"
 ---
 
+<img src="/personal_portfolio/content/writing/images/landline-phone/smartphone-usage.jpg" alt="Smartphone Usage" style="float: left; margin: 0 20px 15px 0; width: 45%; max-width: 350px;" />
+
 The tech holds very strong and supporting reasons so as why people should be keeping landline phones. Did we ever think if the cellular networks that we are completely reliable on, would completely break-down? After all they are wireless connections which are still not 100% reliable. Currently the telecom operators are suffering to keep up to the standards (a connection to my blog post 'The G Progress'). 
 
 Landline phones still run on underground cables or fiber optics which have lesser chances of reduced quality and call dropouts. Introducing HD voice calling on landline technology would be interesting. Audio data compression would not occur which would result in good voice quality and hassle free calls.
@@ -28,3 +30,5 @@ Thinking and comparing to the age when we used to use cell phones only for voice
 Coming to another side effect of using too much cell phone for voice call is the radiation level the cell phone emits. We put the cell phone close to our head for a long time which causes long term health issues. Using earphones also is a solution anyway.
 
 Concluding the article, usage of cell phone has a lot of advantages over landline but completely scrapping landline phones and the wired mode of communication is not recommended.
+
+<div style="clear: both;"></div>

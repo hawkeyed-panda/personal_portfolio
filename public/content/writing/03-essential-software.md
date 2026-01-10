@@ -14,6 +14,9 @@ This blog post is all about the real essential software everybody must have. The
 Many of us might have heard about this software everywhere in the large scale industries where image and photo editing is a must. Here are some common features that Adobe Photoshop has to offer:
 
 - **Photoshop layers**: Layering is the fundamental of photo editing. Add layers and edit all the way onto the layers before applying it onto the original image.
+
+<img src="/personal_portfolio/content/writing/images/essential-software/adobe-photoshop.jpg" alt="Adobe Photoshop" style="float: right; margin: 0 0 15px 20px; width: 35%; max-width: 280px;" />
+
 - **High range of selection tools** which give you a professional edit (cropping, slicing, moving, marquee, lasso, magic wand, eraser)
 - **Pen Tool**: This tool creates specific paths with adjustable anchor points.
 - **Shape Tool**: Maintaining a particular shape without losing its originality enhances the end-result for designers.
@@ -24,11 +27,16 @@ Many of us might have heard about this software everywhere in the large scale in
 
 Adobe Photoshop is a subscription based service via Adobe Creative Cloud which lets users seamlessly sync files across various devices.
 
+<div style="clear: both;"></div>
+
 ## 2) VLC Media Player
 
 Video LAN project in 1986. Now, merely one of the best video players for our PCs. Available for free, this software seamlessly integrates with the files, devices, streams and webcams to offer users with the high video quality in no time. We know that VLC allows us to play media files but do all of us know the high number of hidden features in the application? What makes it different from the other good media players for PC?
 
 - **Converter**: It has an in-built video converter which changes the encoding and file format as required by the user. We don't need a different software for converting videos.
+
+<img src="/personal_portfolio/content/writing/images/essential-software/vlc-media-player.jpg" alt="VLC Media Player" style="float: right; margin: 0 0 15px 20px; width: 30%; max-width: 250px;" />
+
 - **Streaming media from PC to other Client**: VLC can act as both server and client for streaming and receiving network streams. We just have to fill in the IP addresses into both the systems to stream simultaneously. This can be useful in companies where an instruction can be sent to all the employees using a video.
 - **Streaming and downloading online videos**: VLC has the potential to stream and download videos from various online video play platforms. Just entering the URL in the desired location will do so. The codec will initially run on your browser where you can select to save your file locally. This is of great use.
 - **Equalizer**: VLC can act as a graphic equalizer for the overall sound on your system, not only the media you play through VLC.
@@ -37,11 +45,15 @@ Video LAN project in 1986. Now, merely one of the best video players for our PCs
 
 And lot more with extensions and add-ons.
 
+<div style="clear: both;"></div>
+
 ## 3) Notepad ++
 
 Similar to the windows notepad, this software is a text editor too. But what makes it stand out is the number of text editing options and compatibility with different programming languages. Notepad ++ is the text editor made for developers. It is open-source and is completely free to use. Deeply thought, one of the very unique aspects of Notepad++ is to reduce the world's carbon dioxide emissions by optimizing the number of routines it runs, which in turn uses lesser CPU power. This is good when though on the large scale.
 
 **Popular features of Notepad ++:**
+
+<img src="/personal_portfolio/content/writing/images/essential-software/notepad-plus-plus.jpg" alt="Notepad++" style="float: right; margin: 0 0 15px 20px; width: 30%; max-width: 250px;" />
 
 1. **Internationalization**: It is one of the very few source code editors that supports internationalization using XML files. In order to translate to a new language all you can do is edit the existing file.
 
@@ -57,11 +69,15 @@ Similar to the windows notepad, this software is a text editor too. But what mak
 
 Way to go Coders! This is the software for you!
 
+<div style="clear: both;"></div>
+
 ## 4) Bluestacks
 
 Bluestacks is a cool software allowing you to run all the android apps on multiple desktop OS. The basic advantage of the software is that it does not consume much RAM and is easy to install. This software has well managed to bridge the gap between desktop and mobile ecosystem.
 
 **What makes the software stand out:**
+
+<img src="/personal_portfolio/content/writing/images/essential-software/bluestacks.jpg" alt="Bluestacks" style="float: right; margin: 0 0 15px 20px; width: 30%; max-width: 220px;" />
 
 - **Integration functioning**: It is a very user-friendly or integration friendly as it easily connects to all the hardware available on your system with the android ecosystem be it mouse, keyboard, camera, mic, etc.
 - **Developer Friendly**: This software is really useful for the mobile application developers. Especially for those who want to check the performance of their app regularly. They can easily monitor the performance of the applications with the 'Developer's team support' segment provided.
@@ -69,6 +85,8 @@ Bluestacks is a cool software allowing you to run all the android apps on multip
 - **Easy installation**: Users can simple download the software from the Bluestacks website and install without any issues. Installing apps is also similar to the phones. There is a Store available for that too.
 - **Gamer-friendly**: All the android games can be installed and played with the keyboard and mouse. The smooth and lag-free experience of gaming on bluestacks gives a real-time experience.
 - **Integrated File Explorer**: Files of the desktop can be accessed from the android home application itself. This makes it easy to work between the desktop and Bluestacks.
+
+<div style="clear: both;"></div>
 
 ## 5) Team Viewer
 
@@ -80,6 +98,8 @@ One of the best known software for remote access solutions. As many of them are 
 - Hardware Access Remotely
 - Communication Modes
 
+<img src="/personal_portfolio/content/writing/images/essential-software/teamviewer.jpg" alt="TeamViewer" style="float: right; margin: 0 0 15px 20px; width: 30%; max-width: 220px;" />
+
 **Unique Functions of the software:**
 - Multi-platform compatibility
 - Cloud-Based Services
@@ -90,9 +110,15 @@ One of the best known software for remote access solutions. As many of them are 
 
 For all the work-from-home needs, this software with high-end security and end to end encryption holds a good though in my mind.
 
+<div style="clear: both;"></div>
+
 ## 6) Avidemux
 
-Avidemux is a simple and a lightweight video editing tool. Don't go with the size or the UI of the program. It is actually very powerful. If you know exactly what to do to your video files and what option to go for editing it in the manner you want, it is the perfect free and open sourced software. With the software you can also download the K-Lite codec pack Mega for extra codecs used for video editing and encoding as well.
+Avidemux is a simple and a lightweight video editing tool. Don't go with the size or the UI of the program. It is actually very powerful. If you know exactly what to do to your video files and what option to go for editing it in the manner you want, it is the perfect free and open sourced software.
+
+<img src="/personal_portfolio/content/writing/images/essential-software/avidemux.jpg" alt="Avidemux" style="float: right; margin: 0 0 15px 20px; width: 30%; max-width: 250px;" />
+
+With the software you can also download the K-Lite codec pack Mega for extra codecs used for video editing and encoding as well.
 
 **The features include:**
 - Add filters to your video
@@ -103,11 +129,16 @@ Avidemux is a simple and a lightweight video editing tool. Don't go with the siz
 
 The above given software get the maximum out of productivity in the fields they perform. This lets users finish tasks faster and with a high quality presentation. I have used all these software and some point in the past 5 years and the explanation is a combination of my experience with the knowledge from various articles.
 
+<div style="clear: both;"></div>
+
 ## 7) ShareX
 
 This app is a great free to use open source software. It is a substitute to the snip and sketch tool available with windows. It is a screenshot and screen capturing app for Windows PCs which is as easy to use as snipping in a phone and editing the screenshot with fingers and touch. This app bridges the gap between editing screenshots and snipping on phone and PC.
 
 **Its unique features include:**
+
+<img src="/personal_portfolio/content/writing/images/essential-software/sharex.jpg" alt="ShareX" style="float: right; margin: 0 0 15px 20px; width: 30%; max-width: 220px;" />
+
 - Auto detection of the borders using AI allowing easy captures.
 - As we know long screenshots/ expanded screenshots on the phone which allows us to take screenshots of web pages or long scripts, this app does it for the PC too instead of taking screenshot for every scroll.
 - We have the ability to add watermark on the image if the person would want the ownership rights of the screenshot taken.
@@ -115,3 +146,5 @@ This app is a great free to use open source software. It is a substitute to the 
 - Easy to install: This app is very easy to install as the app has now been migrated to the windows store from the web install.
 
 Hope this will help! Thank You!
+
+<div style="clear: both;"></div>

@@ -15,6 +15,8 @@ With the newly announced OnePlus 8 series, the company has set the limits to the
 
 ## OnePlus 8 Pro Flagship Specs
 
+<img src="/personal_portfolio/content/writing/images/real-flagship-oneplus/oneplus-8-pro.jpg" alt="OnePlus 8 Pro" style="float: left; margin: 0 20px 15px 0; width: 40%; max-width: 300px;" />
+
 Starting with the OnePlus 8 Pro flagship specs:
 
 - **120Hz QHD+ Display** giving a truly smooth performance as smooth as a fluid flowing out of a glass.
@@ -25,6 +27,8 @@ Starting with the OnePlus 8 Pro flagship specs:
 - **Warp Charge 30 Wireless Charging** giving you a power of 50% charge in just 30 minutes
 - Fabulous **Camera System with quad cameras**: 48MP + 48MP wide angle + 5MP color Filter + 8MP Hybrid Zoom camera.
 - The camera system holds the best image sensor till date **SONY IMX689** which has the capability to process higher exposure rates and focus length.
+
+<div style="clear: both;"></div>
 
 ## Design Philosophy
 

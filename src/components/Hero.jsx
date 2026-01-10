@@ -20,6 +20,8 @@ const Hero = () => {
 
   return (
     <section id="hero" className="hero">
+      <div className="hero-bg-elements"></div>
+      <div className="hero-connection-lines"></div>
       <div className="hero-container">
         <div className="hero-content">
           <h1 className="hero-name">{personalInfo.name}</h1>

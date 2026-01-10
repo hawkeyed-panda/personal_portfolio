@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { useParams, useNavigate, Link } from 'react-router-dom';
 import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
+import rehypeRaw from 'rehype-raw';
 import matter from 'gray-matter';
 import { ArrowLeft, Share2, Twitter, Linkedin, Facebook, Link2 } from 'lucide-react';
 import { writingPosts, personalInfo } from '../mock';
@@ -133,7 +134,7 @@ const BlogPost = () => {
         </header>
 
         <div className="blog-post-content">
-          <ReactMarkdown remarkPlugins={[remarkGfm]}>
+          <ReactMarkdown remarkPlugins={[remarkGfm]} rehypePlugins={[rehypeRaw]}>
             {content}
           </ReactMarkdown>
         </div>

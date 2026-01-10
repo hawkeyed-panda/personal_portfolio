@@ -9,6 +9,8 @@ slug: "the-big-question-ipad"
 
 Can the new iPad 2020 replace your laptop with the refreshed new iPad OS and added mouse/trackpad support? With added mouse support, the iPads are inching closer to the real laptop replacement. Previously iPads were developed with a touch-only interaction. Firstly, talking about the new iPadOS which had launched in September 2019 was a huge change to the complete iPad ecosystem. It had brought in iPad specific features which drag the iPads and the laptops closer.
 
+<img src="/personal_portfolio/content/writing/images/the-big-question/ipad-pro-poll.jpg" alt="iPad Pro with Magic Keyboard and Poll" style="float: left; margin: 0 20px 15px 0; width: 40%; max-width: 320px;" />
+
 ## 1) Multitasking
 
 Swiping from the bottom gives a whole lot new experience for multitasking.
@@ -24,6 +26,8 @@ Meaning, to hold more apps at one glance. And the best part of this feature? App
 ## 4) Another great feature apple has worked on for iPads is the floating keyboard
 
 Which allows one handed slide-typing when the iPad is on the hand. The keyboard becomes smaller than the actual one and can be used with one finger.
+
+<div style="clear: both;"></div>
 
 ## 5) Better mark-up and screenshots with the Apple Pencil
 
